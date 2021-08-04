@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px, auto, 0, auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  width: 4%;
+  border-style:dotted none none none;
+  border-width: 6px;
+  border-color: #EAF6F6;
+  margin: 100px auto;
+}
+
+.codding-img {
+  width: 10rem;
+  float: left;
+  margin-right: 30px;
+}
+
+.mechnic-img {
+  width: 10rem;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: relative;
+  bottom: 300px;
+  right: 80px;
+}
+
+.mountain {
+  position: relative;
+  right: 80px;
+}
+
+.top-cloud {
+  margin-top: 50px;
+  position: relative;
+  left: 300px;
+}
+
+.intro {
+  width: 30rem;
+  margin: auto;
+}
+
+.discription-for-contact {
+  margin: 40px auto 60px;
+  weight: 40%;
+}
+
+.skill-row {
+  width: 50rem;
+  margin: 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+
+
+.btn {
+  text-decoration:none;
+  text-align:center;
+  padding:10px 30px;
+  border:none;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  border-radius: 10px;
+  font:18px;
+  color:#ffffff;
+  background:#66bfbf;
+  -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+  -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+  box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+  margin-top: 100px;
+}
+
+#first-header {
+  font-weight: normal;
+}
+
+#sign{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
